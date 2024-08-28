@@ -2,7 +2,7 @@
 - 👀 I’m interested in both software and hard ware development
 - 🌱 I’m currently learning programming and electronics
 - 💞️ I’m looking to collaborate on Embedded systems
-- 📫 How to reach me: lota0di46@gmail.com
+- 📫 How to reach me: lotaodi46@gmail.com
 
 <!---
 lotachukwu46/lotachukwu46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
